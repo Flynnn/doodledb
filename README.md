@@ -11,7 +11,7 @@ https://www.thedoodlelibrary.com/
 
 I have modified this data by downloading it, converting it from SVG to basic JSON path data, and uploading it here.
 
-#How it works
+# How it works
 download.py will generate a brand new doodledb.json every time you run it. How? *by scraping the doodle library's website*
 
 As such, please only run said script if absolutely necessary.
@@ -20,7 +20,7 @@ Since I am allowed to do so, under CC4.0, I have simply included the final resul
 
 Many of the doodles need cleanup, I'm afraid it simply isn't perfect, but ce's la vie
 
-#How to use doodledb.json
+# How to use doodledb.json
 Doodledb.json is a dict containing two elements:
 'categories' and 'doodles'
 
